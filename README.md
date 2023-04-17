@@ -2,9 +2,9 @@
 This is a simple password generator application that generates a random password with a length of 10 characters. It is built using HTML, CSS, and JavaScript.
 
 ## User Story
-* As a user who needs to create secure passwords for my online accounts
-* I want to be able to use a password generator application that can create random passwords with specific criteria
-* So that I can protect my personal information and prevent hacking attempts.
+* AS AN employee with access to sensitive data
+* I WANT to randomly generate a password that meets certain criteria
+* SO THAT I can create a strong password that provides greater security
 
 
 
